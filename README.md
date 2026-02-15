@@ -22,5 +22,3 @@ I am a dedicated **Android & Full-Stack Web Developer** focused on building func
 
 ### 📫 Connect with me:
 - **Email:** ritamanyabhattacharjee@gmail.com
-
----
