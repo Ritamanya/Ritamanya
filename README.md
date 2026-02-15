@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ritamanya Bhattacharjee! 👋
 
-<!--
-**Ritamanya/Ritamanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I am a dedicated **Android & Full-Stack Web Developer** focused on building functional, user-centric applications. I enjoy solving complex problems using Java and modern web technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** Java, C, C++, Python, JavaScript
+- **Web Dev:** HTML5, CSS3, JavaScript (ES6+)
+- **Mobile Dev:** Android Development (Java), XML
+- **Tools:** Git, GitHub, VS Code, Android Studio
+
+---
+
+### 🚀 What I Offer
+- **Android Development:** Experience in building offline-first applications with Java.
+- **Web Development:** Creating responsive and interactive websites.
+- **Problem Solving:** Strong foundation in C++ and Python for algorithmic thinking.
+
+---
+
+### 📫 Connect with me:
+- **Email:** ritamanyabhattacharjee@gmail.com
+
+---
