@@ -14,9 +14,9 @@ I am a dedicated **Android & Full-Stack Web Developer** focused on building func
 ---
 
 ### 🚀 What I Offer
-- **Android Development:** Experience in building offline-first applications with Java.
+- **Android Development:** Experience in building applications with Java.
 - **Web Development:** Creating responsive and interactive websites.
-- **Problem Solving:** Strong foundation in C++ and Python for algorithmic thinking.
+- **Problem Solving:** Strong foundation in C, C++, Java and Python for algorithmic thinking.
 
 ---
 
